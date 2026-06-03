@@ -1,57 +1,99 @@
-<!DICTYPE html>
-<head>
-	<link rel="stylesheet" href="style.css"/>
-</head
-	>
-<img src="https://github.com/sachi4c/sachi4c/blob/main/blue-eyes-cute-teen-girl.jpg" width="300%">
-<div class="d1">
-<h1 style="color: aliceblue;" align=>Hi, I'm Sachintha Sandakelum (Sri Lanka)👋&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>     
+# 👋 Hi, I'm Sachintha Sandakelum 🇱🇰
+
+💻 ICT Student | 🚀 Full-Stack Developer | ⚡ Tech Enthusiast
+
+---
+
+## 👨‍💻 About Me
+
+Hi, I'm **Sachintha Sandakelum**, a passionate developer from Sri Lanka who loves building modern web applications and exploring new technologies.
+
+I focus on improving my skills in full-stack development, backend systems, and real-world project building.
+
+---
+
+## 🎓 Education
+
+🎓 **Open University of Sri Lanka**  
+📘 Bachelor of ICT (Ongoing)
+
+🏫 **Kingswood College, Kandy**  
+🔬 Physical Science Stream (Secondary Education)
+
+---
+
+## 🚀 What I Do
+
+⚡ Full-Stack Web Development  
+🧠 Backend Development (Node.js)  
+🎨 Frontend Development (HTML, CSS, JS)  
+🔥 Firebase & Database Systems  
+🔗 API Development & Integration  
+💡 E-commerce & Business Systems  
+
+---
+
+## 🧰 Tech Stack
+
+💻 Languages:  
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=flat&logo=css3)
+
+⚙️ Backend:  
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express)
+
+🗄️ Databases:  
+![Firebase](https://img.shields.io/badge/Firebase-black?style=flat&logo=firebase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql)
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-	<a href="https://www.facebook.com/sachi4c"><img title="Facebook Profile" src="https://github.com/sachi4c/sachi4c/blob/main/Facebook_f_logo_(2021).svg%20(1).png"></a>
-	<a href="https://wa.link/q1r1l3"><img title="Whatsapp Number" src="https://github.com/sachi4c/sachi4c/blob/main/pngfind.com-logo-whatsapp-png-49.png"></a>
-	<a href="https://www.instagram.com/sachi4c/"><img title="Instragam Account" src="https://github.com/sachi4c/sachi4c/blob/main/pngfind.com-circle-logo-png-7093.png"></a>
-	<a href="https://t.me/sachi4c"><img title="Telegram Number" src="https://github.com/sachi4c/sachi4c/blob/main/telegram-logo-png-0%20(1).png"></a>
-	<a href="discordapp.com/users793221785541541908/"><img title="Discord Server" src="https://github.com/sachi4c/sachi4c/blob/main/discord-logo-png-7637%20(1).png"></a>
+  <a href="https://github.com/sachi4c">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
+
+  <a href="https://www.facebook.com/sachi4c">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook">
+  </a>
+
+  <a href="https://www.instagram.com/sachi4c">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram">
+  </a>
+
+  <a href="https://wa.link/q1r1l3">
+    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp">
+  </a>
+
+  <a href="https://t.me/sachi4c">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram">
+  </a>
 </p>
 
-<p style="color: aliceblue;">
-- HI! I’m <a href="https://www.facebook.com/sachi4c" style="color: aqua;">Sachintha Sandakelum</a><br>
-- 👀 I’m looking for New programming methods<br>
-- 🧐 I’m currently learning Java, Node.js, HTML, Python<br>
-- 📫 How to reach me on <a href="https://wa.link/q1r1l3" style="color: aqua;">Whatsapp</a><br>
-- 💫 I am only a beginner of developing... 🌆
-</p>
-</div>
+---
 
-<h3 align="left" style="color: rgb(207, 223, 236);">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachi4c&show_icons=true&layout=compact&theme=highcontrast" alt="sachi4c" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachi4c&show_icons=true&theme=highcontrast" alt="sachi4c" /></p>
+![Stats](https://github-readme-stats.vercel.app/api?username=sachi4c&show_icons=true&theme=highcontrast)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachi4c&theme=highcontrast" alt="sachi4c" /></p>
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachi4c&layout=compact&theme=highcontrast)
 
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+---
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=sachi4c)
+## 🎯 Goals
 
-</details>
+🚀 Become a professional software engineer  
+🌍 Build scalable SaaS products  
+💰 Create online business systems  
+🏆 Build a strong personal tech brand  
 
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+---
 
-![Metrics](https://metrics.lecoq.io/sachi4c?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
+## 🏁 Final Note
 
-</details>
-	<img src="200.gif" width="00%">
-
-  <p align="right">
-	<a href="https://www.facebook.com/sachi4c"><img title="Facebook Profile" src="https://github.com/sachi4c/sachi4c/blob/main/Facebook_f_logo_(2021).svg%20(1).png"></a>
-	<a href="https://wa.link/q1r1l3"><img title="Whatsapp Number" src="https://github.com/sachi4c/sachi4c/blob/main/pngfind.com-logo-whatsapp-png-49.png"></a>
-	<a href="https://www.instagram.com/sachi4c/"><img title="Instragam Account" src="https://github.com/sachi4c/sachi4c/blob/main/pngfind.com-circle-logo-png-7093.png"></a>
-	<a href="https://t.me/sachi4c"><img title="Telegram Number" src="https://github.com/sachi4c/sachi4c/blob/main/telegram-logo-png-0%20(1).png"></a>
-	<a href="discordapp.com/users793221785541541908/"><img title="Discord Server" src="https://github.com/sachi4c/sachi4c/blob/main/discord-logo-png-7637%20(1).png"></a>
-</p>
-<img src="https://github.com/sachi4c/sachi4c/blob/main/200.gif" width="100%">
+I’m constantly learning, building, and improving myself as a developer to create impactful real-world solutions.
