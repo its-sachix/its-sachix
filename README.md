@@ -58,19 +58,15 @@ I focus on improving my skills in full-stack development, backend systems, and r
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
 
-  <a href="https://www.facebook.com/sachi4c">
+  <a href="https://www.facebook.com/its_sachix">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook">
   </a>
 
-  <a href="https://www.instagram.com/sachi4c">
+  <a href="https://www.instagram.com/its_sachix">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram">
   </a>
 
-  <a href="https://wa.link/q1r1l3">
-    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp">
-  </a>
-
-  <a href="https://t.me/sachi4c">
+  <a href="https://t.me/Its_sachiX">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
