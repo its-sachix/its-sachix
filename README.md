@@ -54,7 +54,7 @@ I focus on improving my skills in full-stack development, backend systems, and r
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/sachi4c">
+  <a href="https://github.com/its-sachix">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
 
