@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Sachintha Sandakelum**, a passionate developer from Sri Lanka who loves building modern web applications and exploring new technologies.
+Hi, I'm **Sachintha Sandakelum Dharmasooriya** (Professionally known as Sachintha Sandakelum), a passionate developer from Sri Lanka who loves building modern web applications and exploring new technologies.
 
 I focus on improving my skills in full-stack development, backend systems, and real-world project building.
 
