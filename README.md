@@ -66,8 +66,8 @@ I focus on improving my skills in full-stack development, backend systems, and r
 
   
   <a href="https://www.linkedin.com/in/its-sachix">
-    <img src="https://img.shields.io/badge/Linkedin-cyan?style=for-the-badge&logo=linkedin">
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
   
 </br>
   <a href="https://www.instagram.com/its.sachix">
