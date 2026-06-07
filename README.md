@@ -75,10 +75,10 @@ I focus on improving my skills in full-stack development, backend systems, and r
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=its-sachix&show_icons=true&theme=highcontrast)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-sachix&layout=compact&theme=highcontrast)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachi4c&show_icons=true&theme=highcontrast" alt="sachi4c" /></p>  
+  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachi4c&theme=highcontrast" alt="sachi4c" /></p>  
+  
 ---
 
 ## 🎯 Goals
