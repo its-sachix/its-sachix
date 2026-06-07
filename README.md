@@ -65,8 +65,8 @@ I focus on improving my skills in full-stack development, backend systems, and r
   </a>
 
   
-  <a href="https://www.linkedin.com/in/its-sachix">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/its-sachix">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
 </a>
   
 </br>
