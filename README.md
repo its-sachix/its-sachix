@@ -1,112 +1,115 @@
-👋 Hi, I'm Sachintha Sandakelum 🇱🇰
+# 👋 Hi, I'm Sachintha Sandakelum 🇱🇰
 
 💻 ICT Student | 🚀 Aspiring Software Engineer | ⚡ Full-Stack Web Developer
 
-https://komarev.com/ghpvc/?username=its-sachix&style=flat-square
+---
+
+## 👨‍💻 About Me
+
+Hi, I'm **Sachintha Sandakelum Dharmasooriya** (Professionally known as Sachintha Sandakelum), a passionate developer from Sri Lanka who loves building modern web applications and exploring new technologies.
+
+I focus on improving my skills in full-stack development, backend systems, and real-world project building.
 
 ---
 
-👨‍💻 About Me
+## 🎓 Education
 
-Hi, I'm Sachintha Sandakelum Dharmasooriya (professionally known as Sachintha Sandakelum), a passionate developer from Sri Lanka who enjoys building modern web applications and exploring new technologies.
-
-I focus on improving my skills in full-stack development, backend systems, and real-world software projects.
-
----
-
-🎓 Education
-
-🎓 Open University of Sri Lanka
+🎓 **Open University of Sri Lanka**  
 📘 Bachelor of ICT (Ongoing)
 
-🏫 Kingswood College, Kandy
-🔬 Physical Science Stream
+🏫 **Kingswood College, Kandy**  
+🔬 Physical Science Stream (Secondary Education)
 
 ---
 
-🚀 What I Do
+## 🚀 What I Do
 
-⚡ Full-Stack Web Development
-
-🧠 Backend Development (Node.js)
-
-🎨 Frontend Development (HTML, CSS & JavaScript)
-
-🔥 Firebase & Database Systems
-
-🔗 API Development & Integration
-
-💡 E-commerce & Business Solutions
+⚡ Full-Stack Web Development  
+🧠 Backend Development (Node.js)  
+🎨 Frontend Development (HTML, CSS, JS)  
+🔥 Firebase & Database Systems  
+🔗 API Development & Integration  
+💡 E-commerce & Business Systems  
 
 ---
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 
-💻 Languages
+💻 Languages:  
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=flat&logo=css3)
 
-"JavaScript" (https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
-"Python" (https://img.shields.io/badge/Python-black?style=flat&logo=python)
-"HTML5" (https://img.shields.io/badge/HTML5-black?style=flat&logo=html5)
-"CSS3" (https://img.shields.io/badge/CSS3-black?style=flat&logo=css3)
+⚙️ Backend:  
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express)
 
-⚙️ Backend
-
-"Node.js" (https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js)
-"Express" (https://img.shields.io/badge/Express-black?style=flat&logo=express)
-
-🗄️ Databases
-
-"Firebase" (https://img.shields.io/badge/Firebase-black?style=flat&logo=firebase)
-"PostgreSQL" (https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql)
+🗄️ Databases:  
+![Firebase](https://img.shields.io/badge/Firebase-black?style=flat&logo=firebase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql)
 
 ---
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p align="left"><a href="https://github.com/its-sachix">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-</a> 
+<p align="left">
 
-<a href="https://www.linkedin.com/in/its-sachix">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-</a> 
+  <a href="https://github.com/its-sachix" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  </a>
+  &nbsp;
 
-<a href="https://www.facebook.com/its.sachix">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40"/>
-</a> 
+  <a href="https://www.linkedin.com/in/its-sachix" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a>
+  &nbsp;
 
-<a href="https://www.instagram.com/its.sachix">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40"/>
-</a> 
+  <a href="https://www.facebook.com/its.sachix" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40"/>
+  </a>
+  &nbsp;
 
-<a href="https://t.me/Its_sachiX">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="40" height="40"/>
-</a></p>---
+  <a href="https://www.instagram.com/its.sachix" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40"/>
+  </a>
+  &nbsp;
 
-📊 GitHub Stats
+  <a href="https://t.me/Its_sachiX" target="_blank">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" height="40"/>
+  </a>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=its-sachix&show_icons=true&theme=highcontrast"/>
-</p><p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=its-sachix&theme=highcontrast"/>
-</p><p align="center">
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-sachix&show_icons=true&theme=highcontrast" alt="its-sachix" /></p>  
+
+<p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-sachix&layout=compact&theme=highcontrast"/>
-</p>---
+</p>
 
-🎯 Goals
-
-🚀 Become a Professional Software Engineer
-
-🌍 Build Scalable SaaS Products
-
-💰 Create Innovative Business Systems
-
-🏆 Build a Strong Personal Tech Brand
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-sachix&theme=highcontrast" alt="its-sachix" /></p>  
 
 ---
 
-🏁 Final Note
+## 🎯 Goals
 
-I believe in continuous learning and practical experience. Every project I build helps me grow as a developer and brings me one step closer to creating impactful real-world solutions.
+🚀 Become a professional software engineer  
+🌍 Build scalable SaaS products  
+💰 Create online business systems  
+🏆 Build a strong personal tech brand  
 
-⭐ Thanks for visiting my profile!
+---
+
+## 📈 Profile Views
+
+![](https://komarev.com/ghpvc/?username=its-sachix&style=flat-square)
+
+---
+
+## 🏁 Final Note
+
+I’m constantly learning, building, and improving myself as a developer to create impactful real-world solutions.
