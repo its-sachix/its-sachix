@@ -58,9 +58,17 @@ I focus on improving my skills in full-stack development, backend systems, and r
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
 
+  
+
   <a href="https://www.facebook.com/its.sachix">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook">
   </a>
+
+  
+  <a href="https://www.linkedin.com/in/its-sachix">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  
 </br>
   <a href="https://www.instagram.com/its.sachix">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram">
